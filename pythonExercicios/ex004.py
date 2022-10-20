@@ -9,4 +9,3 @@ print('É alfanumerico; ', palavra.isnumeric())
 print('Esta em maiusculas; ', palavra.isupper())
 print('Esta em minuscula; ', palavra.islower())
 print('Esta captalizada; ', palavra.istitle())
-

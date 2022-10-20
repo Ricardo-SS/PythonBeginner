@@ -1,3 +1,5 @@
+# Escreva um programa que receba a medida em metros e coverta em centimetros e milinmetros
+
 print('=' * 10, ' Conversor de medidas: ', '=' * 10)
 medida = float(input('Digite os metros: '))
 cm = medida * 100
